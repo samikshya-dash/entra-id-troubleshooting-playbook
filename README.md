@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Microsoft Entra ID troubleshooting playbook" width="100%">
+  <img src="banner.svg" alt="Microsoft Entra ID troubleshooting playbook" width="100%">
 </p>
 
 A working playbook for the identity problems that fill a support queue: what the user sees, what it usually is, how to prove it, how to fix it and how to stop it coming back. It covers Microsoft Entra ID (formerly Azure AD), hybrid identity with Entra Connect, devices and governance.
