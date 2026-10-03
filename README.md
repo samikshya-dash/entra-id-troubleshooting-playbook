@@ -44,13 +44,13 @@ flowchart LR
 ## Where a sign-in can fail
 
 <p align="center">
-  <img src="assets/signin_checkpoints.svg" alt="Six checkpoints of a sign-in: find the user, check the password, second factor, device, Conditional Access, the application, with the error codes each one produces" width="100%">
+  <img src="signin_checkpoints.svg" alt="Six checkpoints of a sign-in: find the user, check the password, second factor, device, Conditional Access, the application, with the error codes each one produces" width="100%">
 </p>
 
 ## What the playbook covers
 
 <p align="center">
-  <img src="assets/coverage.svg" alt="24 scenarios in six groups: sign-in, applications, hybrid identity, devices, access and governance, risk guests and platform" width="100%">
+  <img src="coverage.svg" alt="24 scenarios in six groups: sign-in, applications, hybrid identity, devices, access and governance, risk guests and platform" width="100%">
 </p>
 
 ## Quick reference
