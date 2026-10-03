@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="354" viewBox="0 0 1000 354" role="img" aria-label="The 24 scenarios in six groups">
+<style>text{font-family:-apple-system,'Segoe UI',Helvetica,Arial,sans-serif}</style>
+<rect width="1000" height="354" rx="14" fill="#0b1b33"/>
+<text x="25" y="40" font-size="19" font-weight="700" fill="#fff">What the playbook covers</text>
+<text x="25" y="62" font-size="13" fill="#8fb3dd">24 scenarios in six groups.</text>
+<circle cx="210" cy="58" r="4" fill="#4fd1c5"/><text x="220" y="62" font-size="13" fill="#8fb3dd">marks the ten issues from the original quick reference; the other fourteen are new.</text>
+<rect x="25.0" y="96" width="152" height="30" rx="6" fill="#3987e5"/><text x="101.0" y="116" font-size="12.5" font-weight="700" fill="#fff" text-anchor="middle">Sign-in</text>
+<rect x="25.0" y="134" width="152" height="28" rx="6" fill="#10233f" stroke="#2a4f80"/><text x="35.0" y="153" font-size="12" fill="#cfe3ff"><tspan font-weight="700" fill="#3987e5">1</tspan>  Can't sign in</text>
+<circle cx="165.0" cy="148" r="4" fill="#4fd1c5"/>
+<rect x="25.0" y="168" width="152" height="28" rx="6" fill="#10233f" stroke="#2a4f80"/><text x="35.0" y="187" font-size="12" fill="#cfe3ff"><tspan font-weight="700" fill="#3987e5">2</tspan>  MFA problems</text>
+<rect x="25.0" y="202" width="152" height="28" rx="6" fill="#10233f" stroke="#2a4f80"/><text x="35.0" y="221" font-size="12" fill="#cfe3ff"><tspan font-weight="700" fill="#3987e5">3</tspan>  Conditional Access</text>
+<rect x="25.0" y="236" width="152" height="28" rx="6" fill="#10233f" stroke="#2a4f80"/><text x="35.0" y="255" font-size="12" fill="#cfe3ff"><tspan font-weight="700" fill="#3987e5">4</tspan>  Legacy auth</text>
+<rect x="25.0" y="270" width="152" height="28" rx="6" fill="#10233f" stroke="#2a4f80"/><text x="35.0" y="289" font-size="12" fill="#cfe3ff"><tspan font-weight="700" fill="#3987e5">5</tspan>  Lockout loop</text>
+<rect x="25.0" y="304" width="152" height="28" rx="6" fill="#10233f" stroke="#2a4f80"/><text x="35.0" y="323" font-size="12" fill="#cfe3ff"><tspan font-weight="700" fill="#3987e5">6</tspan>  Repeated prompts</text>
+<rect x="184.6" y="96" width="152" height="30" rx="6" fill="#199e70"/><text x="260.6" y="116" font-size="12.5" font-weight="700" fill="#fff" text-anchor="middle">Applications</text>
+<rect x="184.6" y="134" width="152" height="28" rx="6" fill="#10233f" stroke="#2a4f80"/><text x="194.6" y="153" font-size="12" fill="#cfe3ff"><tspan font-weight="700" fill="#199e70">7</tspan>  App authentication</text>
+<circle cx="324.6" cy="148" r="4" fill="#4fd1c5"/>
+<rect x="184.6" y="168" width="152" height="28" rx="6" fill="#10233f" stroke="#2a4f80"/><text x="194.6" y="187" font-size="12" fill="#cfe3ff"><tspan font-weight="700" fill="#199e70">8</tspan>  SAML sign-on</text>
+<rect x="184.6" y="202" width="152" height="28" rx="6" fill="#10233f" stroke="#2a4f80"/><text x="194.6" y="221" font-size="12" fill="#cfe3ff"><tspan font-weight="700" fill="#199e70">9</tspan>  Assignment, consent</text>
+<rect x="184.6" y="236" width="152" height="28" rx="6" fill="#10233f" stroke="#2a4f80"/><text x="194.6" y="255" font-size="12" fill="#cfe3ff"><tspan font-weight="700" fill="#199e70">10</tspan>  Workload identity</text>
+<rect x="344.2" y="96" width="152" height="30" rx="6" fill="#c98500"/><text x="420.2" y="116" font-size="12.5" font-weight="700" fill="#fff" text-anchor="middle">Hybrid identity</text>
+<rect x="344.2" y="134" width="152" height="28" rx="6" fill="#10233f" stroke="#2a4f80"/><text x="354.2" y="153" font-size="12" fill="#cfe3ff"><tspan font-weight="700" fill="#c98500">11</tspan>  Sync errors</text>
+<circle cx="484.2" cy="148" r="4" fill="#4fd1c5"/>
+<rect x="344.2" y="168" width="152" height="28" rx="6" fill="#10233f" stroke="#2a4f80"/><text x="354.2" y="187" font-size="12" fill="#cfe3ff"><tspan font-weight="700" fill="#c98500">12</tspan>  Password sync</text>
+<rect x="344.2" y="202" width="152" height="28" rx="6" fill="#10233f" stroke="#2a4f80"/><text x="354.2" y="221" font-size="12" fill="#cfe3ff"><tspan font-weight="700" fill="#c98500">13</tspan>  Federation</text>
+<rect x="503.8" y="96" width="152" height="30" rx="6" fill="#d95926"/><text x="579.8" y="116" font-size="12.5" font-weight="700" fill="#fff" text-anchor="middle">Devices</text>
+<rect x="503.8" y="134" width="152" height="28" rx="6" fill="#10233f" stroke="#2a4f80"/><text x="513.8" y="153" font-size="12" fill="#cfe3ff"><tspan font-weight="700" fill="#d95926">14</tspan>  Device join</text>
+<circle cx="643.8" cy="148" r="4" fill="#4fd1c5"/>
+<rect x="503.8" y="168" width="152" height="28" rx="6" fill="#10233f" stroke="#2a4f80"/><text x="513.8" y="187" font-size="12" fill="#cfe3ff"><tspan font-weight="700" fill="#d95926">15</tspan>  Compliance, PRT</text>
+<rect x="663.4" y="96" width="152" height="30" rx="6" fill="#9085e9"/><text x="739.4" y="116" font-size="12.5" font-weight="700" fill="#fff" text-anchor="middle">Access, governance</text>
+<rect x="663.4" y="134" width="152" height="28" rx="6" fill="#10233f" stroke="#2a4f80"/><text x="673.4" y="153" font-size="12" fill="#cfe3ff"><tspan font-weight="700" fill="#9085e9">16</tspan>  Resource access</text>
+<circle cx="803.4" cy="148" r="4" fill="#4fd1c5"/>
+<rect x="663.4" y="168" width="152" height="28" rx="6" fill="#10233f" stroke="#2a4f80"/><text x="673.4" y="187" font-size="12" fill="#cfe3ff"><tspan font-weight="700" fill="#9085e9">17</tspan>  Groups, licences</text>
+<circle cx="803.4" cy="182" r="4" fill="#4fd1c5"/>
+<rect x="663.4" y="202" width="152" height="28" rx="6" fill="#10233f" stroke="#2a4f80"/><text x="673.4" y="221" font-size="12" fill="#cfe3ff"><tspan font-weight="700" fill="#9085e9">18</tspan>  Role activation</text>
+<rect x="663.4" y="236" width="152" height="28" rx="6" fill="#10233f" stroke="#2a4f80"/><text x="673.4" y="255" font-size="12" fill="#cfe3ff"><tspan font-weight="700" fill="#9085e9">19</tspan>  Access reviews</text>
+<circle cx="803.4" cy="250" r="4" fill="#4fd1c5"/>
+<rect x="663.4" y="270" width="152" height="28" rx="6" fill="#10233f" stroke="#2a4f80"/><text x="673.4" y="289" font-size="12" fill="#cfe3ff"><tspan font-weight="700" fill="#9085e9">20</tspan>  Password reset</text>
+<circle cx="803.4" cy="284" r="4" fill="#4fd1c5"/>
+<rect x="823.0" y="96" width="152" height="30" rx="6" fill="#e66767"/><text x="899.0" y="116" font-size="12.5" font-weight="700" fill="#fff" text-anchor="middle">Risk, guests, platform</text>
+<rect x="823.0" y="134" width="152" height="28" rx="6" fill="#10233f" stroke="#2a4f80"/><text x="833.0" y="153" font-size="12" fill="#cfe3ff"><tspan font-weight="700" fill="#e66767">21</tspan>  User risk</text>
+<circle cx="963.0" cy="148" r="4" fill="#4fd1c5"/>
+<rect x="823.0" y="168" width="152" height="28" rx="6" fill="#10233f" stroke="#2a4f80"/><text x="833.0" y="187" font-size="12" fill="#cfe3ff"><tspan font-weight="700" fill="#e66767">22</tspan>  Guest access</text>
+<rect x="823.0" y="202" width="152" height="28" rx="6" fill="#10233f" stroke="#2a4f80"/><text x="833.0" y="221" font-size="12" fill="#cfe3ff"><tspan font-weight="700" fill="#e66767">23</tspan>  Throttling, outages</text>
+<circle cx="963.0" cy="216" r="4" fill="#4fd1c5"/>
+<rect x="823.0" y="236" width="152" height="28" rx="6" fill="#10233f" stroke="#2a4f80"/><text x="833.0" y="255" font-size="12" fill="#cfe3ff"><tspan font-weight="700" fill="#e66767">24</tspan>  Admin lockout</text>
+</svg>
