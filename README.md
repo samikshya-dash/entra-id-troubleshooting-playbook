@@ -108,9 +108,9 @@ Ask these before touching any setting. They decide which scenario you are in.
 python triage.py
 ```
 
-![Top sign-in failure codes](docs/top_failure_codes.svg)
+![Top sign-in failure codes](top_failure_codes.svg)
 
-![Failed sign-ins per day](docs/failures_per_day.svg)
+![Failed sign-ins per day](failures_per_day.svg)
 
 In the sample, one day stands out. The script reports it as 198 failures of `7000222` on a single app: a client secret that expired overnight, which is scenario 7.
 
